@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# IBM SkillsBuild Cloud Computing Certificate Journey
 
 
@@ -228,3 +229,7 @@ Feel free to reach out if you're also pursuing cloud computing certifications or
 
 \*\*Note:\*\* This repository serves as a personal learning tracker for the IBM SkillsBuild Cloud Computing certificate program. All content and progress updates reflect my individual learning journey.
 
+=======
+# my-certifications
+This repo contains my professional and academic certificates for recruiter reference.
+>>>>>>> 29a94ff88000dcb8b4068b5f8a218d10e89f82e8
