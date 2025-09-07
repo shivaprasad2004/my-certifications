@@ -2,22 +2,11 @@
 
 \\# IBM SkillsBuild Cloud Computing Certificate Journey
 
-
-
-
-
-
-
-\\\[!\\\[IBM SkillsBuild](https://img.shields.io/badge/IBM-SkillsBuild-blue?style=for-the-badge\\\&logo=ibm)](https://skillsbuild.org/)
+[!\\\[IBM SkillsBuild](https://img.shields.io/badge/IBM-SkillsBuild-blue?style=for-the-badge\\\&logo=ibm)](https://skillsbuild.org/)
 
 
 
 \\\[!\\\[Cloud Computing](https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge\\\&logo=icloud)](https://www.credly.com/badges/9ca6dbce-6a67-4084-b99e-1cc8cf3299d3)
-
-
-
-
-
 
 
 \\## 🎯 Certificate Goal
@@ -182,9 +171,6 @@ Working towards earning the \\\*\\\*IBM SkillsBuild Cloud Computing Fundamentals
 
 ```
 
-
-
-Progress: \\\[▓▓▓░░░░░░░] 0/7 modules completed (0%)
 
 
 
